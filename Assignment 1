@@ -1,0 +1,11 @@
+a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
+if(a>b):
+    print("a is greater", a)
+else:
+    print("b is greater", b)
+
+OUTPUT:
+Enter the first number: 58
+Enter the second number:69
+b is greater 69
